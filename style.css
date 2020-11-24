@@ -148,9 +148,17 @@ main {
   outline: none;
 }
 
-.dice {
+.dice0 {
   position: absolute;
-  left: 50%;
+  left: 43%;
+  top: 16.5rem;
+  transform: translateX(-50%);
+  height: 10rem;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
+}
+.dice1 {
+  position: absolute;
+  right: 33%;
   top: 16.5rem;
   transform: translateX(-50%);
   height: 10rem;
