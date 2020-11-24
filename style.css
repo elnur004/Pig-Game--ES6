@@ -158,7 +158,7 @@ main {
 }
 
 .player--winner {
-  background-image: linear-gradient(to top left, #368082 0%, #a9bf2e 100%);;
+  background-image: linear-gradient(to top left, #368082 0%, #a9bf2e 100%);
   margin-bottom: 0px;
 }
 
